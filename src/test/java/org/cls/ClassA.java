@@ -22,6 +22,14 @@ public class ClassA {
 		System.out.println("Kerala");
 
 	}
+	private void stone() {
+		System.out.println("Stone");
+
+	}
+	private void brick() {
+		System.out.println("Brick");
+		
+	}
 	private void temple1() {
 		System.out.println("Temple1");
 
@@ -33,6 +41,5 @@ public class ClassA {
 	private void temple3() {
 		System.out.println("Temple3");
 
-	}
-
 }
+	}
