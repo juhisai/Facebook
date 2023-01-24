@@ -30,5 +30,9 @@ public class ClassA {
 		System.out.println("Temple2");
 
 	}
+	private void temple3() {
+		System.out.println("Temple3");
+
+	}
 
 }
