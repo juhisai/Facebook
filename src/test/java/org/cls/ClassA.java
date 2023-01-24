@@ -22,5 +22,13 @@ public class ClassA {
 		System.out.println("Kerala");
 
 	}
+	private void temple1() {
+		System.out.println("Temple1");
+
+	}
+	private void temple2() {
+		System.out.println("Temple2");
+
+	}
 
 }
