@@ -22,5 +22,13 @@ public class ClassA {
 		System.out.println("Kerala");
 
 	}
+	
+	private void stone() {
+		System.out.println("Stone");
+
+	}
+	private void brick() {
+		System.out.println("Brick");
+	}
 
 }
