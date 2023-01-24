@@ -13,5 +13,14 @@ public class ClassA {
 		System.out.println("Test3");
 
 	}
+	
+	private void tamilNadu() {
+	System.out.println("Tamil Nadu");
+
+	}
+	private void kerala() {
+		System.out.println("Kerala");
+
+	}
 
 }
